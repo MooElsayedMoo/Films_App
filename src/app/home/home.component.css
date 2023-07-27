@@ -1,0 +1,28 @@
+.content{
+  margin-bottom: 10px;
+}
+.content img{
+  width: 100%;
+}
+.content h5{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.content p{
+  font-size: 16px;
+  color: darkslategrey;
+}
+
+#mak {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: gold;
+  }
